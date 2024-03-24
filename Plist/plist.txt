@@ -1,0 +1,1 @@
+itms-services://?action=download-manifest&url=https://archive.org/download/xula_20230304/XULA.plist
